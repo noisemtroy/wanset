@@ -6,4 +6,5 @@
 - git clone https://github.com/raaihan/wanset
 - cd oneset
 - php oneaset.php
+
 untuk mengisi refferal masuk di dalam file reffo.php
